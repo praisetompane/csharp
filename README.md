@@ -2,29 +2,37 @@
 
 **objective**: an in-depth study of C#, its implementation and ecosystem.
 
-## Content:
+## Language Details:
+- [language specification - EMCA](https://ecma-international.org/publications-and-standards/standards/ecma-334/)
+- [language specification - ISO](https://www.iso.org/standard/75178.html)
 - [language reference]()
 - [base modules index]()
 - [standard library reference]()
 - packaging and package management:
   - [packaging]()
   - tools:
-    - [third party modules/packages index]()
-    - editor:
-      - https://wiki.python.org/moin/IntegratedDevelopmentEnvironments
   - structuring projects:
-    - [python-packaging]()
-    - [src layout]()
-  - testing:
-    - [pytest]():
-      - [goodpractices]()
-
+- [package index]()
 - [extending and embedding]()
-- [developer contribution guide]()
 - [compiler/interpreter]()
+- [developer contribution guide]()
 - memory model:
   - [computational complexity cost model]()
-- history and usage:
+- history:
   - [history]()
+
+## Testing:
+- [Nunit](https://github.com/nunit/nunit)
+## Use Cases:
+- [Applications for Language]()
+- Large Implementations:
+- Database Integration:
+- Web Development:
+
+## Learning Resources:
+- practice problems:
+- roadmap: 
+
+# References:
 
 **Disclaimer**: This is an ongoing and incomplete project to unpack these concepts and serve as my distributed memory.
