@@ -1,8 +1,10 @@
 # C#
 
-**objective**: an in-depth study of C#, its implementation and ecosystem.
+- An in-depth study of:
+	- C#'s Compiler.
+	- C#'s language design, implementation and ecosystem.
 
-## Language Details:
+## Language Details
 - [language specification - EMCA](https://ecma-international.org/publications-and-standards/standards/ecma-334/)
 - [language specification - ISO](https://www.iso.org/standard/75178.html)
 - [language reference]()
@@ -21,18 +23,17 @@
 - history:
   - [history]()
 
-## Testing:
+## Testing
 - [Nunit](https://github.com/nunit/nunit)
-## Use Cases:
+
+## Use Cases
 - [Applications for Language]()
-- Large Implementations:
-- Database Integration:
-- Web Development:
 
-## Learning Resources:
+
+## Learning Resources
 - practice problems:
-- roadmap: 
+- roadmap:
 
-# References:
+# References
 
 **Disclaimer**: This is an ongoing and incomplete project to unpack these concepts and serve as my distributed memory.
