@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Tiny_CollegeModel1.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="Tiny_CollegeModel1StoreContainer">
+    <EntitySet Name="STUDENT" EntityType="Tiny_CollegeModel1.Store.STUDENT" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="STUDENT">
+    <Key>
+      <PropertyRef Name="STU_ID" />
+    </Key>
+    <Property Name="STU_ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="STU_LNAME" Type="varchar" Nullable="false" MaxLength="100" />
+    <Property Name="STU_FNAME" Type="varchar" Nullable="false" MaxLength="100" />
+    <Property Name="STU_GPA" Type="float" Nullable="false" />
+  </EntityType>
+</Schema>

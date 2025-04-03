@@ -1,0 +1,5 @@
+C:\Users\Praise\Desktop\Stuff\Documents\Programming\C#\Programs\Structs\Structs\bin\Debug\Structs.exe
+C:\Users\Praise\Desktop\Stuff\Documents\Programming\C#\Programs\Structs\Structs\bin\Debug\Structs.pdb
+C:\Users\Praise\Desktop\Stuff\Documents\Programming\C#\Programs\Structs\Structs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Praise\Desktop\Stuff\Documents\Programming\C#\Programs\Structs\Structs\obj\x86\Debug\Structs.exe
+C:\Users\Praise\Desktop\Stuff\Documents\Programming\C#\Programs\Structs\Structs\obj\x86\Debug\Structs.pdb

@@ -1,8 +1,7 @@
 # C#
 
-- An in-depth study of:
-	- C#'s Compiler.
-	- C#'s language design, implementation and ecosystem.
+## Objectives
+- Notes: The C# Programming Language 
 
 ## Language Details
 - [language specification - EMCA](https://ecma-international.org/publications-and-standards/standards/ecma-334/)

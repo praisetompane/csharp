@@ -1,0 +1,5 @@
+c:\users\t2p\documents\visual studio 2010\Projects\Serialization\Serialization\bin\Debug\Serialization.exe
+c:\users\t2p\documents\visual studio 2010\Projects\Serialization\Serialization\bin\Debug\Serialization.pdb
+c:\users\t2p\documents\visual studio 2010\Projects\Serialization\Serialization\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\t2p\documents\visual studio 2010\Projects\Serialization\Serialization\obj\x86\Debug\Serialization.exe
+c:\users\t2p\documents\visual studio 2010\Projects\Serialization\Serialization\obj\x86\Debug\Serialization.pdb
