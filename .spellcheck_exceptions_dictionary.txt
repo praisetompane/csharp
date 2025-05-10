@@ -1,0 +1,42 @@
+# abbreviations
+svg
+
+
+# acronyms
+MYINC
+
+
+# authors
+Kernighan
+Ritchie
+praisetompane
+bminor
+kraj
+
+# domain specific
+libc
+
+# course codes:
+
+
+# technology:
+yaml
+llvm
+pyspelling
+musl
+glibc
+
+# institutions:
+roadmap
+pypi
+hackerrank
+
+
+# urls:
+https
+src
+MuAUGA
+Rvcnkgb
+VZ
+YgYw
+ygUQdGhlIGhpc

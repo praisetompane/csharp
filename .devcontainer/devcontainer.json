@@ -1,0 +1,14 @@
+{
+	"name": "c#",
+	"image": "mcr.microsoft.com/devcontainers/dotnet",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-dotnettools.csdevkit"
+			],
+			"settings": {}
+		}
+	},
+	"workspaceMount": "source=${localWorkspaceFolder},target=/csharp,type=bind,consistency=delegated",
+	"workspaceFolder": "/csharp"
+}

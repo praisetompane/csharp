@@ -4,35 +4,39 @@
 - Notes: The C# Programming Language 
 
 ## Language Details
-- [language specification - EMCA](https://ecma-international.org/publications-and-standards/standards/ecma-334/)
-- [language specification - ISO](https://www.iso.org/standard/75178.html)
-- [language reference]()
-- [base modules index]()
-- [standard library reference]()
-- packaging and package management:
-  - [packaging]()
-  - tools:
-  - structuring projects:
-- [package index]()
-- [extending and embedding]()
-- [compiler/interpreter]()
-- [developer contribution guide]()
-- memory model:
-  - [computational complexity cost model]()
-- history:
-  - [history]()
-
-## Testing
-- [Nunit](https://github.com/nunit/nunit)
+- [Language Specification - EMCA](https://ecma-international.org/publications-and-standards/standards/ecma-334/)
+- [Language Specification - ISO](https://www.iso.org/standard/75178.html)
+- [Compiler | Interpreter]()
+- [Type System]()
+- [Memory Model]()
+- [Language Reference]()
+- [Standard Library]()
+- Packaging and Distribution
+    - [Core Module Index]()
+    - [Package Index]()
+    - Tools:
+        - ...
+    - Structuring Projects:
+        - ...
+- [Extending and Embedding]()
+- [Developer Contribution Guide]()
+- [History]()
 
 ## Use Cases
 - [Applications for Language]()
 
+## Community
 
-## Learning Resources
-- practice problems:
-- roadmap:
+## Spell Check
+```shell
+pyspelling -c spellcheck.yaml
+```
 
-# References
+## References
+
+## Legend
+**Q**: Question for later research
+
+**MYINC**: My Insight/Conjecture [Could Be Unoriginal/False and Likely Is]
 
 **Disclaimer**: This is an ongoing and incomplete project to unpack these concepts and serve as my distributed memory.
