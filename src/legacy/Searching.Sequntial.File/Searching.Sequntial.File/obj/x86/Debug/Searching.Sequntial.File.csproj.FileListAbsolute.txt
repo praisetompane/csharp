@@ -1,5 +1,0 @@
-c:\users\t2p\documents\visual studio 2010\Projects\Searching.Sequntial.File\Searching.Sequntial.File\obj\x86\Debug\ResolveAssemblyReference.cache
-c:\users\t2p\documents\visual studio 2010\Projects\Searching.Sequntial.File\Searching.Sequntial.File\bin\Debug\Searching.Sequntial.File.exe
-c:\users\t2p\documents\visual studio 2010\Projects\Searching.Sequntial.File\Searching.Sequntial.File\bin\Debug\Searching.Sequntial.File.pdb
-c:\users\t2p\documents\visual studio 2010\Projects\Searching.Sequntial.File\Searching.Sequntial.File\obj\x86\Debug\Searching.Sequntial.File.exe
-c:\users\t2p\documents\visual studio 2010\Projects\Searching.Sequntial.File\Searching.Sequntial.File\obj\x86\Debug\Searching.Sequntial.File.pdb

@@ -1,7 +1,7 @@
 # C#
 
 ## Objectives
-- Notes: The C# Programming Language 
+- Notes: The C# Programming Language
 
 ## Language Details
 - [Language Specification - EMCA](https://ecma-international.org/publications-and-standards/standards/ecma-334/)
@@ -20,7 +20,9 @@
         - ...
 - [Extending and Embedding]()
 - [Developer Contribution Guide]()
-- [History]()
+- [History](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history)
+
+https://learn.microsoft.com/en-us/shows/dotnet-for-beginners/what-is-dotnet-dotnet-for-beginners
 
 ## Use Cases
 - [Applications for Language]()

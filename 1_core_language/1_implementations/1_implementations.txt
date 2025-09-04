@@ -1,0 +1,7 @@
+Known implementations:
+    - .NET Core:
+        - platform: Cross platform
+    - .NETFramework:
+        - platform: Windows
+
+References:

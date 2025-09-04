@@ -1,9 +1,6 @@
-# abbreviations
-svg
-
-
-# acronyms
+# acronyms/abbreviations
 MYINC
+svg
 
 
 # authors
@@ -13,8 +10,10 @@ praisetompane
 bminor
 kraj
 
+
 # domain specific
 libc
+
 
 # course codes:
 
