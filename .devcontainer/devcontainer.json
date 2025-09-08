@@ -11,3 +11,4 @@
 	},
 	"workspaceMount": "source=${localWorkspaceFolder},target=/csharp,type=bind,consistency=delegated",
 	"workspaceFolder": "/csharp"
+}
