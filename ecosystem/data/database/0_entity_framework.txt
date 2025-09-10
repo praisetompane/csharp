@@ -1,0 +1,23 @@
+def entity framework:
+    - formal: https://github.com/dotnet/efcore
+
+        - in words: ???
+
+    - plain english: database development toolkit.
+
+    - intuition: ???
+
+    - properties:
+        - features:
+            - ORM
+                - LINQ support
+            - schema migrations
+            - ...
+
+    - examples: ???
+
+    - use cases: ???
+
+    - proof: ???
+
+References: ???

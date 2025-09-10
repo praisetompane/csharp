@@ -1,0 +1,18 @@
+def dotnet:
+    - formal: https://github.com/microsoft/dotnet
+
+        - in words: ???
+
+    - plain english: software development platform from Microsoft
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+
+    - proof: ???
+
+References: ???
