@@ -7,28 +7,39 @@
 Software And Its Engineering/Software Notations And Tools/General Programming Languages/Language Types/Multiparadigm Languages
 
 ## Language Details
-- [Language Specification - EMCA](https://ecma-international.org/publications-and-standards/standards/ecma-334/)
-- [Language Specification - ISO](https://www.iso.org/standard/75178.html)
-- [Compiler | Interpreter]()
-- [Type System]()
-- [Memory Model]()
-- [Language Reference]()
-- [Standard Library]()
+- [Language Specification](https://github.com/dotnet/csharpstandard/)
+  - [C# Language Design](https://github.com/dotnet/csharplang)
+- [Compiler | Interpreter](https://github.com/dotnet/roslyn)
+- [Type System](https://learn.microsoft.com/en-us/dotnet/csharxp/fundamentals/types/)
+- Memory Model
+  - [.NET memory model](https://github.com/dotnet/runtime/blob/main/docs/design/specs/Memory-model.md)
+  - [The C# Memory Model in Theory and Practice](https://learn.microsoft.com/en-us/archive/msdn-magazine/2012/december/csharp-the-csharp-memory-model-in-theory-and-practice)
+  - [Memory Model](https://learn.microsoft.com/en-us/archive/blogs/cbrumme/memory-model)
+  - [C# Memory Model](https://useful.codes/c-sharp-memory-model/)
+  - [C# Memory Management](https://useful.codes/memory-management-in-c-sharp/)
+- [Language Reference](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/)
+- [Standard Library](https://github.com/dotnet/csharpstandard/blob/draft-v8/standard/standard-library.md)
 - Packaging and Distribution
-    - [Core Module Index]()
-    - [Package Index]()
+    - [Package Index](https://www.nuget.org/packages)
     - Tools:
-        - ...
+        - [nuget](https://www.nuget.org/)
     - Structuring Projects:
         - ...
-- [Extending and Embedding]()
-- [Developer Contribution Guide]()
-- [History](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history)
-
+- [Extending and Embedding](https://dotnet.microsoft.com/en-us/apps/iot)
+- [Developer Contribution Guide](https://github.com/dotnet/roslyn#contributing)
+- History:
+  - [C#](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history)
+  - [.NET](https://www.youtube.com/watch?v=DZhoL55kWac)
 
 ## Use Cases
-- [Applications for Language]()
-
+- [Applications for Language]
+  - Web Applications
+    - Backend Web API Development
+    - Front End
+  - Game Development
+  - Mobile Applications
+  - Desktop Applications
+  - AI & Machine Learning
 ## Community
 
 ## Learning Resources
