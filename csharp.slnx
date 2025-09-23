@@ -1,3 +1,12 @@
 <Solution>
+  <Folder Name="/4_experiments/" />
+  <Folder Name="/4_experiments/1_core_language/">
+    <Project Path="4_experiments/1_core_language/0_classes/0_classes.csproj" />
+    <Project Path="4_experiments/1_core_language/2_classes/2_classes.csproj" />
+    <Project Path="4_experiments/1_core_language/classes/classes.csproj" />
+  </Folder>
+  <Folder Name="/4_experiments/3_packaging_and_distribution/">
+    <Project Path="4_experiments/3_packaging_and_distribution/password_generator/password_generator.csproj" />
+  </Folder>
   <Project Path="./csharp.csproj" />
 </Solution>
