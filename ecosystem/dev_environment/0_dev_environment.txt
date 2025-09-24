@@ -1,0 +1,20 @@
+
+def asp.net_core:
+    - formal: https://code.visualstudio.com/docs/csharp/introvideos-csharp
+
+        - in words: ???
+
+    - plain english: base develoment kit.
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+
+    - proof: ???
+
+References: ???
+

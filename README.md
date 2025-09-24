@@ -23,8 +23,8 @@ Software And Its Engineering/Software Notations And Tools/General Programming La
     - [Package Index](https://www.nuget.org/packages)
     - Tools:
         - [nuget](https://www.nuget.org/)
-    - Structuring Projects:
-        - ...
+    - [Structuring Projects](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/program-structure/)
+
 - [Extending and Embedding](https://dotnet.microsoft.com/en-us/apps/iot)
 - [Developer Contribution Guide](https://github.com/dotnet/roslyn#contributing)
 - History:
@@ -44,9 +44,8 @@ Software And Its Engineering/Software Notations And Tools/General Programming La
 ## Community
 
 ## Learning Resources
-- [roadmap](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/)
-- [beginner-series](https://github.com/dotnet/beginner-series)
-- [C# language documentation](https://learn.microsoft.com/en-us/dotnet/csharp/?WT.mc_id=dotnet-35129-website)
+- [C# and .NET Beginner Series](https://github.com/dotnet/beginner-series)
+- [roadmap](https://learn.microsoft.com/en-us/dotnet/csharp/?WT.mc_id=dotnet-35129-website)
 
 
 ## Spell Check
