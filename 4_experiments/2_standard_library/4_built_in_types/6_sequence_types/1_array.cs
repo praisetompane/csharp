@@ -2,6 +2,7 @@ Console.WriteLine("Array Construction and Iteration:");
 
 var fruits = new string[] { "Pear", "Orange", "Banana", "Tangarine" };
 
+Console.WriteLine("Array Iteration");
 foreach (var fruit in fruits)
 {
     Console.WriteLine(fruit);
@@ -22,3 +23,6 @@ foreach (var fruit in fruits[2..4])
 {
     Console.WriteLine(fruit);
 }
+
+Console.WriteLine("Array In Place Sorting");
+fruits.Sort();
