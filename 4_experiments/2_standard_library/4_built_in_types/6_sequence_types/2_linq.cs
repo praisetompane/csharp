@@ -16,3 +16,12 @@ Console.WriteLine(string.Join(", ", A_scores));
 Console.WriteLine(string.Join(", ", A_scores.ToList()));
 
 Console.WriteLine("End Basic LINQ");
+
+Console.WriteLine("LINQ Method Equivalents");
+
+var A_scores_2 = testScores.Where(x => x > 80).
+                    OrderByDescending(x => x);
+
+Console.WriteLine(string.Join(", ", A_scores_2));
+
+Console.WriteLine("End LINQ Method Equivalents");
