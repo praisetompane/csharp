@@ -56,9 +56,10 @@ pyspelling -c spellcheck.yaml
 
 ## Execute Programs
 ```shell
-csharp source_file.cs
+#requires .NET 10+
+dotnet run source_file.cs
 #Example:
-csharp 4_experiments/2_standard_library/io/0_stdin_stdout.cs
+dotnet run 4_experiments/2_standard_library/io/0_stdin_stdout.cs
 ```
 
 ## References
