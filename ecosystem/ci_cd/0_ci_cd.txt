@@ -1,0 +1,19 @@
+def ci_cd | DevOps:
+    - formal:
+
+        - in words: ???
+
+    - plain english:
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+
+    - proof: ???
+
+References:
+    - DevOps for .NET. https://www.youtube.com/playlist?list=PLdo4fOcmZ0oXCdnRrGyI4mqHfn-6DUUwg

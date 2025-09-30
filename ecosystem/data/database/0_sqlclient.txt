@@ -1,0 +1,26 @@
+def sqlclient:
+    - formal: https://github.com/dotnet/SqlClient
+
+        - in words: ???
+
+    - plain english: database connectivity toolkit.
+
+    - intuition: ???
+
+    - properties:
+        - features:
+            - ORM
+                - LINQ support
+            - schema migrations
+            - ...
+
+    - examples: ???
+
+    - use cases:
+        - connect to:
+            - MS SQL Server
+            - Azure SQL
+
+    - proof: ???
+
+References: ???

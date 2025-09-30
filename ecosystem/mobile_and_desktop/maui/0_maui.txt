@@ -1,0 +1,19 @@
+def maui:
+    - formal: https://github.com/dotnet/maui
+
+        - in words: https://github.com/dotnet/docs-maui
+
+    - plain english: native mobile desktop application development framework.
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases:
+        - .NET MAUI for Beginners: https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUBAdL2NwBpDs32zwGqb9DY
+
+    - proof: ???
+
+References: ???

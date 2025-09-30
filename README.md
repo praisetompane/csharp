@@ -44,8 +44,8 @@ Software And Its Engineering/Software Notations And Tools/General Programming La
 ## Community
 
 ## Learning Resources
-- [C# and .NET Beginner Series](https://github.com/dotnet/beginner-series)
 - [roadmap](https://learn.microsoft.com/en-us/dotnet/csharp/?WT.mc_id=dotnet-35129-website)
+- [C# and .NET Beginner Series](https://github.com/dotnet/beginner-series)
 
 
 ## Spell Check

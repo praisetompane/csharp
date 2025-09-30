@@ -1,5 +1,4 @@
-
-def asp.net_core:
+def development environment:
     - formal: https://code.visualstudio.com/docs/csharp/introvideos-csharp
 
         - in words: ???
@@ -8,7 +7,8 @@ def asp.net_core:
 
     - intuition: ???
 
-    - properties: ???
+    - properties:
+        - .NET Aspire: ???
 
     - examples: ???
 

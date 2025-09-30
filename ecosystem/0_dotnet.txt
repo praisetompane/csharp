@@ -1,13 +1,50 @@
 def dotnet:
-    - formal: https://github.com/microsoft/dotnet
+    - formal: https://github.com/dotnet/dotnet
 
-        - in words: ???
+        - in words:
+                - https://github.com/dotnet/docs
+                - https://github.com/microsoft/dotnet
 
-    - plain english: software development platform from Microsoft
+    - plain english: open source software development platform/ecosystem from Microsoft.
 
     - intuition: ???
 
-    - properties: ???
+    - properties:
+        - .NET Standard: legacy
+            - https://devblogs.microsoft.com/dotnet/the-future-of-net-standard/
+
+        - components:
+            - Common Language Infrastructure(CLI) implementations: ISO/IEC 23271 and ECMA 335
+
+                - Common Intermediate Language(CIL):
+                    -
+
+                - Common Language Runtime(CLR): https://github.com/dotnet/runtime
+                    -
+
+                - Base Class Libraries(BCL):
+                    -
+
+        - known implementations:
+            - .NET Core:
+                - formal: https://github.com/dotnet/sdk
+                    - in words: https://github.com/dotnet/core
+                - platform: Cross platform
+
+            - .NET Framework: legacy .NET receiving only security updates.
+                - platform: Windows
+
+            - Mono: legacy open source .NET that is no longer supported.
+                - platform: Cross platform
+
+            - ...
+
+            remark: modern .NET development is on .NET Core(now known as just .NET)
+
+        - known language implementaions:
+            - C#: https://github.com/dotnet/roslyn/tree/main/src/Compilers/CSharp
+            - F#: https://github.com/dotnet/fsharp
+            - VB: https://github.com/dotnet/roslyn/tree/main/src/Compilers/VisualBasic
 
     - examples: ???
 
@@ -15,4 +52,5 @@ def dotnet:
 
     - proof: ???
 
-References: ???
+References:
+    - On .NET. dotnet. https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVlZCosDDwS9fkVtrLYxGt6
