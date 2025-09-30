@@ -1,17 +1,19 @@
 def asp.net_core:
     - formal: https://github.com/dotnet/aspnetcore
 
-        - in words: ???
+        - in words: https://github.com/dotnet/AspNetCore.Docs
 
     - plain english: web development framework.
 
     - intuition: ???
 
-    - properties: ???
+    - properties:
+        - subtrate?: https://github.com/dotnet/WatsonWebserver
 
     - examples: ???
 
-    - use cases: ???
+    - use cases:
+        - Back-end Web Development with .NET for Beginners: https://www.youtube.com/playlist?list=PLdo4fOcmZ0oWunQnm3WnZxJrseIw2zSAk
 
     - proof: ???
 
