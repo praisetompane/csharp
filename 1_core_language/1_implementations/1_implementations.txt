@@ -1,10 +1,4 @@
 Known implementations:
-    - Common Language Infrastructure(CLI) implementations:
-        - .NET Core: https://github.com/dotnet/core
-            - platform: Cross platform
-        - .NETFramework:
-            - platform: Windows
-        - Mono
-            - platform: Cross platform
-        - ...
+    -
+    -
 References:
