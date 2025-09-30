@@ -1,0 +1,18 @@
+def code_analysis
+    - formal: https://github.com/dotnet/roslynator
+
+        - in words: ???
+
+    - plain english:
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+
+    - proof: ???
+
+References: ???

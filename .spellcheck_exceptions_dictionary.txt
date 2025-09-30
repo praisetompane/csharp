@@ -1,7 +1,30 @@
 # acronyms/abbreviations
 MYINC
 svg
-
+LINQ
+ORM
+ef
+efcore
+DevOps
+BCL
+CIL
+CLI
+CLR
+ECMA
+IEC
+sdk
+ACM
+csharplang
+csharpstandard
+csharxp
+iot
+stdin
+stdout
+SQR
+dev
+eShop
+eShopSupport
+csc
 
 # authors
 Kernighan
@@ -12,6 +35,12 @@ kraj
 
 
 # domain specific
+microservices
+Multiparadigm
+Backend
+CSharp
+VisualBasic
+fsharp
 libc
 
 
@@ -19,19 +48,73 @@ libc
 
 
 # technology:
+aspnetcore
+WatsonWebserver
+visualstudio
+roslynator
+nunit
+nuget
+dotnet
 yaml
 llvm
 pyspelling
 musl
 glibc
 
+
 # institutions:
 roadmap
 pypi
 hackerrank
+freecodecamp
 
 
 # urls:
+DBHV
+oUIuvGTv
+uFPeorZs
+Cfp
+WnZxJrseIw
+Zo
+lAEx
+oDwU
+oRrP
+oUDW
+oUoH
+oWunQnm
+sHWGT
+zSAk
+NwBpDs
+oUBAdL
+zwGqb
+introvideos
+oU
+oULFjxrOagaERVAMbmG
+oUc
+oVIWiDzzwzOo
+lFPIn
+fkVtrLYxGt
+ew
+ShrReCS
+ZLx
+HPrr
+KoBbPEONE
+Fi
+msdn
+kWac
+cbrumme
+DZhoL
+oVlZCosDDwS
+devblogs
+PLdo
+fOcmZ
+mqHfn
+oXCdnRrGyI
+DUUwg
+fOcmZ
+qhcSzwZ
+uTkjYwvCJDG
+SqlClient
 https
 src
 MuAUGA

@@ -17,8 +17,9 @@ def entity framework core | ef core:
     - examples: ???
 
     - use cases:
-        - Entity Framework Core for Beginners. https://www.youtube.com/playlist?list=PLdo4fOcmZ0oX7uTkjYwvCJDG2qhcSzwZ6
+        -
 
     - proof: ???
 
-References: ???
+References:
+    - dotnet. Entity Framework Core for Beginners. https://www.youtube.com/playlist?list=PLdo4fOcmZ0oX7uTkjYwvCJDG2qhcSzwZ6

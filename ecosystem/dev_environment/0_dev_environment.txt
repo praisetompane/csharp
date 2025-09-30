@@ -1,14 +1,14 @@
-
-def asp.net_core:
+def development environment:
     - formal: https://code.visualstudio.com/docs/csharp/introvideos-csharp
 
         - in words: ???
 
-    - plain english: base develoment kit.
+    - plain english: base development kit.
 
     - intuition: ???
 
-    - properties: ???
+    - properties:
+        - .NET Aspire: ???
 
     - examples: ???
 

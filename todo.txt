@@ -1,0 +1,68 @@
+- language:
+    - C# for Beginners: *****
+        - https://www.youtube.com/playlist?list=PLdo4fOcmZ0oULFjxrOagaERVAMbmG20Xe
+    - https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/
+    - C# Language Highlights: https://www.youtube.com/playlist?list=PLdo4fOcmZ0oU3ZLx6Ul1_HPrr6lFPIn9O
+    - history:
+
+- ecosystem:
+    - database:
+        - efcore
+
+    - web_and_internet_development:
+        - asp.net_core
+
+    - testing:
+        - nunit
+
+    - dev_environment:
+        -
+
+    - infrastructure:
+        -
+
+    - ci_cd:
+        -
+
+    - monitoring:
+        -
+
+    - cloud:
+        -
+
+- canonical/idiomatic usage:
+    - C#
+    - EFCore
+    - ASP.NET Core
+    - .NET
+
+- .NET: https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVlZCosDDwS9fkVtrLYxGt6
+
+- microservices: https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p
+
+- security: https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVIWiDzzwzOo8-Om_ew-Fi-
+
+- .NET aspire:
+    - https://learn.microsoft.com/en-us/credentials/applied-skills/build-distributed-apps-with-dotnet-aspire/
+
+- study reference implementations from the .NET team:
+    - web:
+        - shop:
+            - https://github.com/dotnet/eshop
+            - .NET 8 version: https://github.com/dotnet/eShop/tree/release/8.0
+
+        - eShopSupport:
+            - https://github.com/dotnet/eshopsupport
+
+
+- study current implementations at A.G.:
+    - ...
+
+==============================================================================================
+SQR3 legend:
+    *: S visit complete
+    **: Q visit complete
+    ***: R1 visit complete
+    ****: R2 visit complete
+    *****: R3 visit complete
+==============================================================================================
