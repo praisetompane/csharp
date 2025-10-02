@@ -1,4 +1,5 @@
 # C#
+![build status](https://github.com/praisetompane/csharp/actions/workflows/csharp.yaml/badge.svg) <br>
 
 ## Objectives
 - Notes: The C# Programming Language

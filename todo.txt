@@ -1,0 +1,50 @@
+- ecosystem/data
+    - database/efcore
+
+- ecosystem/web_and_internet_development:
+    - asp.net_core
+
+- language
+    - https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/
+    - History
+    - C# Language Highlights: https://www.youtube.com/playlist?list=PLdo4fOcmZ0oU3ZLx6Ul1_HPrr6lFPIn9O
+
+- ecosystem/testing:
+    - nunit
+
+- ecosystem/ecosystem/dev_environment
+
+- ecosystem/ecosystem/infrastructure
+
+- ecosystem/ecosystem/ci_cd
+
+- canonical/idiomatic C# and .NET
+
+- ecosystem/ecosystem/monitoring
+
+- study reference implementations from the .NET team:
+    - web:
+        - shop:
+            - https://github.com/dotnet/eshop
+            - .NET 8 version: https://github.com/dotnet/eShop/tree/release/8.0
+
+        - eShopSupport:
+            - https://github.com/dotnet/eshopsupport
+
+- .NET: https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVlZCosDDwS9fkVtrLYxGt6
+
+- microservices: https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p
+
+- security: https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVIWiDzzwzOo8-Om_ew-Fi-
+
+- .NET Conf 2024
+
+- .NET Conf 2025
+
+- study current implementations at Allan Gray:
+    -
+
+- .NET aspire:
+    - https://learn.microsoft.com/en-us/credentials/applied-skills/build-distributed-apps-with-dotnet-aspire/
+
+- ecosystem/ecosystem/cloud
