@@ -1,0 +1,16 @@
+{
+	"name": "pizza_shop",
+	"build": {
+		"dockerfile": "../DockerFile.dev"
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-dotnettools.csdevkit"
+			],
+			"settings": {}
+		}
+	},
+	"workspaceMount": "source=${localWorkspaceFolder},target=/pizza_shop,type=bind,consistency=delegated",
+	"workspaceFolder": "/pizza_shop"
+}

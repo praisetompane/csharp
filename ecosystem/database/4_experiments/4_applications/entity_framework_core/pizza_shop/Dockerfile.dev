@@ -1,0 +1,5 @@
+FROM mcr.microsoft.com/devcontainers/dotnet:8.0
+
+RUN dotnet tool install --global dotnet-ef --version 8.0.0
+
+ENV PATH="$PATH:/root/.dotnet/tools"

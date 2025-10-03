@@ -3,6 +3,10 @@ using PizzaShop.Models;
 
 namespace PizzaShop.Data;
 
+/*
+    This is the critical piece that Entity Framework uses to determine
+    the migrations to create.
+*/
 public class PizzaShopContext : DbContext
 {
     public DbSet<Customer> Customers { get; set; } = null!;
@@ -15,7 +19,7 @@ public class PizzaShopContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseSqlServer();
+        // Never hard code in PROD of-course
+        optionsBuilder.UseSqlServer("Server=localhost,1433; Database=PizzaShop; User Id=sa; Password=example_123; Encrypt=false; TrustServerCertificate=true; MultipleActiveResultSets=true;");
     }
-
 }
