@@ -26,7 +26,7 @@ public class OrderDetail
         This is a navigation property.
         It will generate a One-to-Many ER Model.
     */
-    public OrderDetail Order { get; set; } = null!;
+    public Order Order { get; set; } = null!;
 
     /*
         This is a navigation property.
