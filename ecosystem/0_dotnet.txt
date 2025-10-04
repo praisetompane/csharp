@@ -10,6 +10,8 @@ def dotnet:
     - intuition: ???
 
     - properties:
+        - API: https://learn.microsoft.com/en-us/dotnet/api/?preserve-view=true&view=net-10.0
+
         - .NET Standard: legacy
             - https://devblogs.microsoft.com/dotnet/the-future-of-net-standard/
 

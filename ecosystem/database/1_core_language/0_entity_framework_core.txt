@@ -8,6 +8,7 @@ def entity framework core | ef core:
     - intuition: ???
 
     - properties:
+        - API: https://learn.microsoft.com/en-us/dotnet/api/?view=efcore-8.0&preserve-view=true
         - features:
             - ORM
                 - LINQ support
@@ -22,4 +23,4 @@ def entity framework core | ef core:
     - proof: ???
 
 References:
-    - dotnet. Entity Framework Core for Beginners. https://www.youtube.com/playlist?list=PLdo4fOcmZ0oX7uTkjYwvCJDG2qhcSzwZ6
+    - dotnet. 2022. Entity Framework Core for Beginners. Microsoft.

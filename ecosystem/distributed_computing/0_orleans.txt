@@ -1,5 +1,5 @@
-def ci_cd | DevOps:
-    - formal:
+def orleans:
+    - formal: https://github.com/dotnet/orleans
 
         - in words: ???
 
@@ -16,4 +16,3 @@ def ci_cd | DevOps:
     - proof: ???
 
 References:
-    - DevOps for .NET. https://www.youtube.com/playlist?list=PLdo4fOcmZ0oXCdnRrGyI4mqHfn-6DUUwg

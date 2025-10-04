@@ -27,6 +27,7 @@ eShopSupport
 csc
 
 # authors
+ravipatel
 Kernighan
 Ritchie
 praisetompane
@@ -70,6 +71,12 @@ freecodecamp
 
 
 # urls:
+txt
+Rkck
+cSehrGgdr
+eqDkSw
+hH
+oUfIayQMrRqaSL
 DBHV
 oUIuvGTv
 uFPeorZs

@@ -1,4 +1,4 @@
-def asp.net_core:
+def asp.net core:
     - formal: https://github.com/dotnet/aspnetcore
 
         - in words: https://github.com/dotnet/AspNetCore.Docs
@@ -8,8 +8,8 @@ def asp.net_core:
     - intuition: ???
 
     - properties:
-        - architecture: ??
-
+        - architecture:
+            - API: https://learn.microsoft.com/en-us/dotnet/api/?view=aspnetcore-8.0&preserve-view=true
         - substrate?: https://github.com/dotnet/WatsonWebserver
 
     - examples: ???
