@@ -1,62 +1,194 @@
 - language:
-    - C# for Beginners: *****
-        - https://www.youtube.com/playlist?list=PLdo4fOcmZ0oULFjxrOagaERVAMbmG20Xe
-    - https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/
-    - C# Language Highlights: https://www.youtube.com/playlist?list=PLdo4fOcmZ0oU3ZLx6Ul1_HPrr6lFPIn9O
-    - history:
+    - readings:
+        - https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/
+        - history
+    - course schedule:
+        -
+    - lectures:
+        - C# for Beginners: *****
+            - https://www.youtube.com/playlist?list=PLdo4fOcmZ0oULFjxrOagaERVAMbmG20Xe
+
+        - C# Language Highlights:
+            - https://www.youtube.com/playlist?list=PLdo4fOcmZ0oU3ZLx6Ul1_HPrr6lFPIn9O
+
+    - recitations|labs:
+        -
+    - assignments:
+        -
+    - exams:
+        -
 
 - ecosystem:
     - database:
-        - efcore
+        - efcore:
+            - readings:
+                - ecosystem/database/1_core_language/0_entity_framework_core.txt
+            - course schedule:
+                -
+            - lectures:
+                - Entity Framework Core for Beginners:
+                    - https://www.youtube.com/playlist?list=PLdo4fOcmZ0oX7uTkjYwvCJDG2qhcSzwZ6
+            - recitations|labs:
+                -
+            - assignments:
+                -
+            - exams:
+                -
 
     - web_and_internet_development:
-        - asp.net_core
+        - asp.net_core:
+            - readings:
+                - ecosystem/web_and_internet_development/asp.net_core/0_asp.net_core.txt
+            - course schedule:
+                -
+            - lectures:
+                -
+            - recitations|labs:
+                -
+            - assignments:
+                -
+            - exams:
+                -
 
     - testing:
-        - nunit
+        - nunit:
+            - readings:
+                - https://docs.nunit.org/articles/nunit/intro.html
+                - ecosystem/testing/nunit/0_nunit.txt
+            - course schedule:
+                -
+            - lectures:
+                -
+            - recitations|labs:
+                -
+            - assignments:
+                -
+            - exams:
+                -
 
     - dev_environment:
+        - readings:
+            -
+        - course schedule:
+            -
+        - lectures:
+            - DevOps for .NET: https://www.youtube.com/playlist?list=PLdo4fOcmZ0oXCdnRrGyI4mqHfn-6DUUwg
+        - recitations|labs:
+            -
+        - assignments:
+            -
+        - exams:
+            -
+
+    - .NET:
+        - readings:
+            - ecosystem/0_dotnet.txt
+        - course schedule:
+            -
+        - lectures:
+            - Deep .NET: https://www.youtube.com/playlist?list=PLdo4fOcmZ0oX8eqDkSw4hH9cSehrGgdr1
+            - On .NET: https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVlZCosDDwS9fkVtrLYxGt6
+            - .NET Security: https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVIWiDzzwzOo8-Om_ew-Fi-
+
+        - recitations|labs:
+            -
+        - assignments:
+            -
+        - exams:
+            -
+
+    - distributed_computing:
+        - readings:
+            -
+        - course schedule:
+            -
+        - lectures:
+            - Microservices: https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p
+            - Cloud Computing for .NET Developers: https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUIuvGTv2DBHV03uFPeorZs
+            - orleans:
+
+        - recitations|labs:
+            -
+        - assignments:
+            -
+        - exams:
+            -
+
+- infrastructure:
+    - readings:
+        -
+    - course schedule:
+        -
+    - lectures:
+        -
+    - recitations|labs:
+        -
+    - assignments:
+        -
+    - exams:
         -
 
-    - infrastructure:
+- monitoring:
+    - readings:
+        -
+    - course schedule:
+        -
+    - lectures:
+        -
+    - recitations|labs:
+        -
+    - assignments:
+        -
+    - exams:
         -
 
-    - ci_cd:
+- .NET Aspire:
+    - readings:
+        - https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview
+        - https://learn.microsoft.com/en-us/credentials/applied-skills/build-distributed-apps-with-dotnet-aspire/
+    - course schedule:
         -
+    - lectures:
+        - Welcome to .NET Aspire!. https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUfIayQMrRqaSL55Rkck-GD
 
-    - monitoring:
+    - recitations|labs:
         -
-
-    - cloud:
+    - assignments:
         -
-
-- canonical/idiomatic usage:
-    - C#
-    - EFCore
-    - ASP.NET Core
-    - .NET
-
-- .NET: https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVlZCosDDwS9fkVtrLYxGt6
-
-- microservices: https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUc2ShrReCS7KoBbPEONE0p
-
-- security: https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVIWiDzzwzOo8-Om_ew-Fi-
-
-- .NET aspire:
-    - https://learn.microsoft.com/en-us/credentials/applied-skills/build-distributed-apps-with-dotnet-aspire/
+    - exams:
+        -
 
 - study reference implementations from the .NET team:
     - web:
-        - shop:
+        - readings:
             - https://github.com/dotnet/eshop
-            - .NET 8 version: https://github.com/dotnet/eShop/tree/release/8.0
-
-        - eShopSupport:
             - https://github.com/dotnet/eshopsupport
-
+        - course schedule:
+            -
+        - lectures:
+            -
+        - recitations|labs:
+            -
+        - assignments:
+            -
+        - exams:
+            -
 
 - study current implementations at A.G.:
-    - ...
+    - readings:
+        -
+    - course schedule:
+        -
+    - lectures:
+        -
+    - recitations|labs:
+        -
+    - assignments:
+        -
+    - exams:
+        -
+
+
 
 ==============================================================================================
 SQR3 legend:

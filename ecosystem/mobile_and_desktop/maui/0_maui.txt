@@ -16,4 +16,4 @@ def maui:
     - proof: ???
 
 References:
-    - dotnet. .NET MAUI for Beginners: https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUBAdL2NwBpDs32zwGqb9DY
+    - dotnet. 2022. .NET MAUI for Beginners. Microsoft.
