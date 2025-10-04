@@ -1,0 +1,20 @@
+def ci_cd | DevOps:
+    - formal:
+
+        - in words: ???
+
+    - plain english:
+
+    - intuition: ???
+
+    - properties:
+        - environment variables: https://medium.com/@ravipatel.it/managing-configuration-and-environment-variables-in-net-b1c10d69d3d2
+
+    - examples: ???
+
+    - use cases: ???
+
+    - proof: ???
+
+References:
+    - dotnet. 2020. DevOps for .NET. Microsoft.

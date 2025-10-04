@@ -1,4 +1,4 @@
-def sqlclient:
+def sqlclient core:
     - formal: https://github.com/dotnet/SqlClient
 
         - in words: ???
@@ -8,6 +8,7 @@ def sqlclient:
     - intuition: ???
 
     - properties:
+        - API: https://learn.microsoft.com/en-us/dotnet/api/?preserve-view=true&view=sqlclient-dotnet-core-6.0
         - features:
             - ORM
                 - LINQ support

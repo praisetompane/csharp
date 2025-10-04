@@ -7,7 +7,8 @@ def nunit
 
     - intuition: ???
 
-    - properties: ???
+    - properties:
+        - API: https://docs.nunit.org/api/NUnit.html
 
     - examples: ???
 

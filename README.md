@@ -11,6 +11,7 @@ Software And Its Engineering/Software Notations And Tools/General Programming La
 - [Language Specification](https://github.com/dotnet/csharpstandard/)
   - [C# Language Design](https://github.com/dotnet/csharplang)
 - [Compiler | Interpreter](https://github.com/dotnet/roslyn)
+  - [API](https://learn.microsoft.com/en-us/dotnet/api/?view=roslyn-dotnet-4.13.0&preserve-view=true)
 - [Type System](https://learn.microsoft.com/en-us/dotnet/csharxp/fundamentals/types/)
 - Memory Model
   - [.NET memory model](https://github.com/dotnet/runtime/blob/main/docs/design/specs/Memory-model.md)
@@ -22,6 +23,7 @@ Software And Its Engineering/Software Notations And Tools/General Programming La
 - [Standard Library](https://github.com/dotnet/csharpstandard/blob/draft-v8/standard/standard-library.md)
 - Packaging and Distribution
     - [Package Index](https://www.nuget.org/packages)
+    - [.NET API Browser](https://learn.microsoft.com/en-us/dotnet/api/?view=efcore-8.0&preserve-view=true)
     - Tools:
         - [nuget](https://www.nuget.org/)
     - [Structuring Projects](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/program-structure/)
