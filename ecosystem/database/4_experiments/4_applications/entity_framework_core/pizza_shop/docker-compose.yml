@@ -1,0 +1,52 @@
+volumes:
+  # the name of a volume to be used to store the database folder
+  # the same is used at "- ./app_x_mssql_data:/var/lib/mssql"
+  app_pizza_mssql_data:
+    driver: local
+services:
+  initialize-database:
+    image: mcr.microsoft.com/mssql-tools:latest
+    container_name: initialize-database
+    restart: no
+    command: "/opt/mssql-tools/bin/sqlcmd -C -S ${MSSQL_HOST} -U ${MSSQL_SA_USER} -P ${MSSQL_SA_PASSWORD} -i /tmp/mssql-init.sql"
+    depends_on:
+      mssql_server_local:
+        condition: service_healthy
+    volumes:
+      - ./mssql/mssql-init.sql:/tmp/mssql-init.sql
+    env_file:
+      - .env
+
+  mssql_server_local:
+    image: mcr.microsoft.com/mssql/server
+    container_name: mssql_server_local
+    restart: always
+    ports:
+      - ${MSSQL_PORT}:1433
+    expose:
+      # Opens port 3306 on the container
+      - ${MSSQL_PORT}
+    env_file:
+      - .env
+    volumes:
+      # the location of the database folder
+      - ./mssql_server_local:/var/opt/mssql
+    healthcheck:
+      test:
+        [
+          "CMD-SHELL",
+          "/opt/mssql-tools18/bin/sqlcmd -C -S localhost -U ${MSSQL_SA_USER} -P ${MSSQL_SA_PASSWORD} -Q 'SELECT 1' || exit 1",
+        ]
+      interval: 10s
+      retries: 10
+      start_period: 10s
+      timeout: 3s
+
+  app_pizza:
+    container_name: app_pizza
+    build:
+      context: ./pizza_shop/
+      dockerfile: ./Dockerfile.dev
+    depends_on:
+     mssql_server_local:
+      condition: service_healthy
