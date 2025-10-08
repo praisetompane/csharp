@@ -20,6 +20,6 @@ public class PizzaShopContext : DbContext
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
         // Never hard code in PROD of-course
-        optionsBuilder.UseSqlServer("Server=localhost,1433; Database=PizzaShop; User Id=sa; Password=example_123; Encrypt=false; TrustServerCertificate=true; MultipleActiveResultSets=true;");
+        optionsBuilder.UseSqlServer("Server=mssql_server_local,1433; Database=app_pizza_shop; User Id=sa; Password=example_123; Encrypt=false; TrustServerCertificate=true; MultipleActiveResultSets=true;");
     }
 }

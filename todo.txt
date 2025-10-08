@@ -82,6 +82,7 @@
 
     - .NET:
         - readings:
+            - https://learn.microsoft.com/en-us/dotnet/fundamentals/
             - ecosystem/0_dotnet.txt
         - course schedule:
             -
